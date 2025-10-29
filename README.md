@@ -9,5 +9,3 @@
 - Successfully ran `TaskOneTests`.
 
 ## Output
-
-(Include your output snippet here)
